@@ -646,9 +646,9 @@ box-shadow:  20px 20px 60px #d9d9d9,
 
 .btn-close{
     position: absolute;
-    top: 0;
+    top: 15px;
     float: right;
-    right: 100px;
+    right: 15px;
     transform: scale(0.5) ;
     
 
